@@ -2,7 +2,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya-111&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-111" /> </p>
 
 
 - 🔭 I’m currently working in [InUnity LLP](https://inunity.in/)
